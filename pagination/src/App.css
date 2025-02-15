@@ -39,5 +39,9 @@
   padding: 20px;
 }
 .active{
-  background-color: aqua;
+  background-color: rgb(243, 197, 194);
+}
+.pagenos{
+  width: 50px;
+  height: 30px;
 }
